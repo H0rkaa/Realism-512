@@ -1,5 +1,5 @@
 # Luanti Realism 512 Texture Pack
-[![ContentDB](https://content.luanti.org/packages/Clemstriangular/realism_512/shields/title/)](https://content.luanti.org/packages/Clemstriangular/realism_512/)[![](https://content.luanti.org/packages/Clemstriangular/realism_512/shields/downloads/)](https://content.luanti.org/packages/Clemstriangular/realism_512/)
+[![ContentDB](https://content.luanti.org/packages/Clemstriangular/realism_512/shields/downloads/)](https://content.luanti.org/packages/Clemstriangular/realism_512/)
 
 Welcome! This is a hyper-realistic texture pack specially made for Minetest.
 
