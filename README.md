@@ -1,4 +1,3 @@
-===========================================
      Luanti Realism 512 Texture Pack
 ===========================================
 
@@ -60,5 +59,5 @@ Some textures are based on open source and freely licensed images, in compliance
 Created by **Horka**
 
 ---------------------
- Thank you for downloading! 🌿
+ Thank you for downloading! 
 ---------------------
