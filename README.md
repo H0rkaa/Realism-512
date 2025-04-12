@@ -1,4 +1,4 @@
-#Luanti Realism 512 Texture Pack
+# Luanti Realism 512 Texture Pack
 
 Welcome! This is a hyper-realistic texture pack specially made for Minetest.
 
